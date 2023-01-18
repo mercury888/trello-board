@@ -1,0 +1,67 @@
+.column-box{
+	width:100%;
+	float:none;
+	height:auto;
+}
+.column-list{
+	float:left;
+	margin-left:15px;
+}
+.columns{
+	padding:15px;
+	border: 1px solid #000;
+	float:left;
+	margin-right:15px;
+	width:280px;
+}
+.column-name{
+	margin-bottom:15px;
+	text-align:left;
+}
+.delete_x{
+	float:right;
+}
+.add-column{
+	padding:15px;
+	border: 1px solid #000;
+	float:left;
+	color:#FFF;
+	background: blue;
+}
+.add-card{
+	padding:10px;
+	border: 1px solid #000;
+	color:#FFF;
+	background: blue;
+	margin:15px;
+}
+.cards{
+	padding:15px;
+	border: 1px solid #000;
+	width:100%;
+	margin-bottom:15px;
+	float:none;
+}
+button{
+	padding:10px;
+	margin:10px;
+}
+input{
+	padding :5px;
+	height:45px;
+	border: 1px solid #000;
+	width:100%;
+	margin-bottom:10px;
+}
+textarea{
+	padding :5px;
+	height:45px;
+	border: 1px solid #000;
+	width:100%;
+	margin-bottom:10px;
+}
+label{
+	float: left;
+}
+
+
